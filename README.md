@@ -15,7 +15,7 @@ Full Responsive Ecommerce Website Using HTML CSS &amp; JavaScript.
 -
 
 ## Project Screenshots
-<img src="https://github.com/Abhishek-Soren/Ecommerce-Website-Using-HTML-CSS-JavaScript/blob/main/screenshots/ss1.png" alt="project-screenshot">
+<img src="https://github.com/Abhishek-Soren/Ecommerce-Website-Using-HTML-CSS-JavaScript/blob/main/screenshots/ss01.png" alt="project-screenshot">
 
 ## Technologies Used
 
